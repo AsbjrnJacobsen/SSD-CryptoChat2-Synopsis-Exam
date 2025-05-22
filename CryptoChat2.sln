@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChat2", "CryptoChat2\CryptoChat2.csproj", "{22A1BA0F-EDC5-41FB-AA5E-AD82663A8FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsClient", "WinFormsClient\WinFormsClient.csproj", "{D5DFD821-CF1B-436E-8C09-FBFC9CC87A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoChat2.ClientLib", "CryptoChat2.ClientLib\CryptoChat2.ClientLib.csproj", "{07DC040F-1509-47E9-913F-084FDB09E963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e2eetest", "e2eetest\e2eetest.csproj", "{01998671-8F22-49AB-B1F5-F5FBBD21E99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A1BA0F-EDC5-41FB-AA5E-AD82663A8FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A1BA0F-EDC5-41FB-AA5E-AD82663A8FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A1BA0F-EDC5-41FB-AA5E-AD82663A8FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A1BA0F-EDC5-41FB-AA5E-AD82663A8FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DFD821-CF1B-436E-8C09-FBFC9CC87A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DFD821-CF1B-436E-8C09-FBFC9CC87A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DFD821-CF1B-436E-8C09-FBFC9CC87A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DFD821-CF1B-436E-8C09-FBFC9CC87A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DC040F-1509-47E9-913F-084FDB09E963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DC040F-1509-47E9-913F-084FDB09E963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DC040F-1509-47E9-913F-084FDB09E963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DC040F-1509-47E9-913F-084FDB09E963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01998671-8F22-49AB-B1F5-F5FBBD21E99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01998671-8F22-49AB-B1F5-F5FBBD21E99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01998671-8F22-49AB-B1F5-F5FBBD21E99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01998671-8F22-49AB-B1F5-F5FBBD21E99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

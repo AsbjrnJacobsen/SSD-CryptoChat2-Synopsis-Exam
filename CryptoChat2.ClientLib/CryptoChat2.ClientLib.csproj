@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="System.Net.Http.Json" Version="9.0.0" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Models\Domain\" />
+      <Folder Include="Utils\" />
+    </ItemGroup>
+</Project>

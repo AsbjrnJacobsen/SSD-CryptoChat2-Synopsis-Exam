@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <AssemblyName>CryptoChat2.WinFormsClient</AssemblyName>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+    <ItemGroup>  <ProjectReference Include="..\CryptoChat2.ClientLib\CryptoChat2.ClientLib.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Security\" />
+    </ItemGroup>
+</Project>
